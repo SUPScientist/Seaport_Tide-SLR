@@ -1,5 +1,8 @@
 [![DOI](https://zenodo.org/badge/243609204.svg)](https://zenodo.org/badge/latestdoi/243609204)
 
+# IMPORTANT!!!
+This repo is no longer being maintained. For the most up-to-date version, please see https://github.com/COAST-Lab/Open-Water-Level. 
+
 # Seaport Water Level and Sea Level Rise Monitor
 This GitHub repository is intended to serve as supplementary information to a manuscript in the journal Oceanography, in the special section DIY (do-it-yourself) Oceanography. 
 
